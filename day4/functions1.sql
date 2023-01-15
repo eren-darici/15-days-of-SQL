@@ -2,5 +2,6 @@
    Find these customers and output the list of these first and last names in all lower case.
 */
 
-SELECT *
-FROM greencycles.public.customer;
+SELECT LOWER(first_name), LOWER(last_name)
+FROM greencycles.public.customer
+WHERE LENGTH(first_name) > 10 OR LENGTH(last_name) > 10;
