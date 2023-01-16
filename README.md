@@ -22,7 +22,7 @@ A 15 days of SQL camp for practicing SQL.
     - GROUP BY
     - HAVING
 
-- Day 3
+- Day 4
     - LENGTH, LOWER & UPPER
     - LEFT & RIGHT
     - CONCAT
@@ -31,6 +31,13 @@ A 15 days of SQL camp for practicing SQL.
     - EXTRACT
     - TO_CHAR
     - Intervals and Timestamps
+
+- Day 5
+    - Mathematical functions and operators
+    - CASE WHEN
+    - COALESCE
+    - CAST
+    - REPLACE
 
 
 
